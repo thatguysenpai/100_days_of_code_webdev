@@ -1,0 +1,12 @@
+How the web works. 
+learnt about :
+http request and response
+client and server relationship
+what are browser instructions
+the 3 main languages you must know as a web developer
+html, css and js
+https/domains/path
+ip addresses
+
+
+ 
