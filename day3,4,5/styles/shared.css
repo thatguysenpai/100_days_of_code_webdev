@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(233, 215, 207);
+    text-align: center;
+    color: rgb(83, 73, 73);
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(83, 75, 75);
+}
+
+p {
+  font-family:'Fira Sans', sans-serif;
+  color: rgb(83, 75, 75);
+}
+
+a{
+    text-decoration: none;
+    color: red;   
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: larger;
+    font-weight: 600;
+}
